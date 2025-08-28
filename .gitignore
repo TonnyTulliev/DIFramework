@@ -1,0 +1,21 @@
+ # Xcode
+  *.xcodeproj
+  *.xcworkspace
+  *.swiftpm
+  .DS_Store
+
+  # Build artifacts
+  .build/
+  build/
+
+  # Swift Package Manager
+  Package.resolved
+
+  # IDE files
+  .vscode/
+  .idea/
+
+  # macOS
+  .DS_Store
+  .AppleDouble
+  .LSOverride
